@@ -4,8 +4,8 @@
 - 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
 - 💬 Ask me about [Dart,Flutter]
 - ⚠  Not quite active on github.
-- 📫 How to reach me: ... [Facebook](https://www.facebook.com/noor.magdy74) ,  **Email** maxzod66@gmail.com
-![maxzod GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&show_icons=true)
+- 📫 How to reach me: [Facebook: Nour Magdy](https://www.facebook.com/noor.magdy74) ,  [Email: snowpiercer2001@gmail.com](mailto:snowpiercer2001@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&show_icons=true)
 
 ## i can work with ``.dart`` ``.js`` ``.ts`` and ``.md`` 😆
 ## **`Packages`**
