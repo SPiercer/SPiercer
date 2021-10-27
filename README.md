@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there ♥🤍
 
-<!--
-**SPiercer/SPiercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelancer flutter/dart developer and a full-time employee at Vodafone VOIS_  
+- 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
+- 💬 Ask me about [Dart,Flutter]
+- ⚠  Not quite active on github.
+- 📫 How to reach me: ... [Facebook](https://www.facebook.com/noor.magdy74) ,  **Email** maxzod66@gmail.com
+![maxzod GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&show_icons=true)
 
-Here are some ideas to get you started:
+## i can work with ``.dart`` ``.js`` ``.ts`` and ``.md`` 😆
+## **`Packages`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏰 [**`Palace`**](https://github.com/maxzod/palace)
+- 🏰 [**`Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
+- 👑 [**`Queen validators`**](https://github.com/maxzod/queen_validators)
+- 🔔 [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)
+- ⚡ [**`Lighthouse`**](https://github.com/maxzod/lighthouse) CLI to provide hot reload for dart projects like `nodemon`
+- 🦜 [**`queen UI`**](https://github.com/maxzod/queen_ui) collection on prebuilt ui widgets for flutter
+- ⚠  [**`EdgeAlerts`**](https://github.com/maxzod/EdgeAlerts) inspired by Alerter package for java
+- 📃 [**`LaravelException`**](https://github.com/maxzod/laravel_exception) parse laravel exception message to dart class with geters to make it simpler
+- 📃 [**`Queen Env`**](https://github.com/maxzod/queen_env) .env file reader
