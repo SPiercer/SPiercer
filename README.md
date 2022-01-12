@@ -5,7 +5,7 @@
 - 💬 Ask me about [Dart,Flutter]
 - ⚠  Not quite active on github.
 - 📫 How to reach me: [Facebook: Nour Magdy](https://www.facebook.com/noor.magdy74) ,  [Email: snowpiercer2001@gmail.com](mailto:snowpiercer2001@gmail.com)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&theme=tokyonight&show_icons=true)
 
 ## i can work with ``.dart`` ``.js`` ``.ts`` and ``.md`` 😆
 ## **`Packages`**
