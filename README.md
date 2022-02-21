@@ -1,13 +1,13 @@
 ### Hello there ♥🤍
 
-- 🔭 I’m currently working as a freelancer flutter/dart developer and a full-time employee at Vodafone VOIS_  
+- 🔭 I’m currently working as a freelancer flutter/dart developer and a former full-time employee at Vodafone VOIS_  
 - 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
-- 💬 Ask me about [Dart,Flutter]
+- 💬 Ask me about `Dart` `Flutter`
 - ⚠  Not quite active on github.
 - 📫 How to reach me: [Facebook: Nour Magdy](https://www.facebook.com/noor.magdy74) ,  [Email: nour.magdi0808@gmail.com](mailto:nour.magdi0808@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&theme=tokyonight&show_icons=true&border_color=EE4B2B&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPiercer&theme=tokyonight&border_color=EE4B2B&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&theme=tokyonight&show_icons=true&border_color=EE4B2B&hide=stars)
 
 ## 🔧 Technologies & Tools
 
