@@ -1,0 +1,18 @@
+name: update pubspec.yaml
+
+on:
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dart-lang/setup-dart@v1.3
+          
+      - name: update pubspec version through the dart script
+        run: dart update.dart
