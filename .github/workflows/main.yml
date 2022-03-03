@@ -18,6 +18,7 @@ jobs:
         run: |
           echo github.event
           echo ${{ github.event }}
-          echo ${{ github.event.push.commit }}
+          echo ${{ github.event.payload }}
+          echo ${{ github.event.payload.commits }}
           echo ${{ github.event_name }}
           
