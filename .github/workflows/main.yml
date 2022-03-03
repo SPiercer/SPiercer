@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
 
-   
+ 
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,8 @@ jobs:
         run: |
           echo github.event
           echo ${{ github.event }}
-          echo ${{ github.event.push_id }}
-          echo ${{ github.event.payload.commits }}
+          echo '${{ toJSON(github) }}'
+          echo '${{ toJSON(job) }}'
+          echo '${{ toJSON(runner) }}'
           echo ${{ github.event_name }}
           
