@@ -3,7 +3,7 @@ name: update pubspec.yaml
 on:
   
   push:
-    branches: [ master ]
+    branches: [ main ]
 
    
   workflow_dispatch:
