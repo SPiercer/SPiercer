@@ -1,7 +1,8 @@
 name: update pubspec.yaml
 
 on:
-  pull_request:
+  
+  push:
     branches: [ master ]
 
   workflow_dispatch:
@@ -15,4 +16,9 @@ jobs:
       - uses: dart-lang/setup-dart@v1.3
           
       - name: update pubspec version through the dart script
-        run: dart update.dart
+        run: |
+          echo github.event
+          echo ${{ github.event }}
+          echo ${{ github.event.payload }}
+          echo ${{ github.event_name }}
+          
