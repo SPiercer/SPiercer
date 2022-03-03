@@ -2,7 +2,7 @@ name: update pubspec.yaml
 
 on:
   
-  commit_comment:
+  push:
     branches: [ master ]
 
    
@@ -13,12 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: dart-lang/setup-dart@v1.3
           
       - name: update pubspec version through the dart script
         run: |
           echo github.event
           echo ${{ github.event }}
-          echo ${{ github.event.payload }}
+          echo ${{ github.event.push.commit }}
           echo ${{ github.event_name }}
           
