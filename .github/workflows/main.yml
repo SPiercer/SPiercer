@@ -17,7 +17,7 @@ jobs:
       - name: update pubspec version through the dart script
         run: |
           echo github.event
-          echo ${{ toJson(github.event) }}
+          echo ${{ github.event }}
           echo ${{ github.event.payload }}
           echo ${{ github.event_name }}
           
