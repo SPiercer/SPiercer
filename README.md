@@ -1,13 +1,11 @@
 ### Hello there ♥🤍
 
-- 🔭 I’m currently working as a freelancer flutter/dart developer and a former full-time employee at Vodafone VOIS_  
+- 🔭 I’m currently a full-time flutter developer at Turbo-EG and a Technical consultant at VenuApps   
+ and a former full-time employee at Vodafone VOIS_   
 - 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
 - 💬 Ask me about `Dart` `Flutter`
 - ⚠  Not quite active on github.
 - 📫 How to reach me: [Facebook: Nour Magdy](https://www.facebook.com/noor.magdy74) ,  [Email: nour.magdi0808@gmail.com](mailto:nour.magdi0808@gmail.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPiercer&theme=tokyonight&border_color=EE4B2B&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&theme=tokyonight&show_icons=true&border_color=EE4B2B&hide=stars)
 
 ## 🔧 Technologies & Tools
 
@@ -32,3 +30,21 @@
 - 📃 [**`LaravelException`**](https://github.com/maxzod/laravel_exception) parse laravel exception messages to dart class with getters to make it easier
 - 📃 [**`Queen Env`**](https://github.com/maxzod/queen_env) .env file reader
 - 🔷 [**`Blueprint`**](https://github.com/maxzod/blueprint) validate JSON against your own Blueprint 🧬
+
+---
+
+### Github Achievements
+
+![Github Streaks](https://github-profile-trophy.vercel.app/?username=SPiercer&theme=radical&row=1&column=8)
+
+### Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&hide_border=true&count_private=true&show_icons=true&theme=radical)
+
+### Github Details
+
+![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPiercer&theme=github_dark)
+
+### Github Contribution Graph
+
+![Github Streaks](https://activity-graph.herokuapp.com/graph?username=SPiercer&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&)
