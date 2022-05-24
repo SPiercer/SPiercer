@@ -1,7 +1,7 @@
 ### Hello there ♥🤍
 
-- 🔭 I’m currently a full-time flutter developer at Turbo-EG and a Technical consultant at VenuApps   
- and a former full-time employee at Vodafone VOIS_   
+- 🔭 I’m currently a part-time Technical consultant at VenuApps   
+ and a former On-Site Specialist at Vodafone VOIS_ and a former flutter developer at Turbo-EG
 - 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
 - 💬 Ask me about `Dart` `Flutter`
 - ⚠  Not quite active on github.
