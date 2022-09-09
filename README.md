@@ -1,6 +1,6 @@
 ### Hello there ♥🤍
 
-- 🔭 I’m currently a part-time Technical consultant at VenuApps   
+- 🔭 I’m currently a full time tech lead at Venu Dine and a part-time technical consultant at Klax Ads
  and a former On-Site Specialist at Vodafone VOIS_ and a former flutter developer at Turbo-EG
 - 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
 - 💬 Ask me about `Dart` `Flutter`
