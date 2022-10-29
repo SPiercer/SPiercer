@@ -1,11 +1,4 @@
-### Hello there ♥🤍
-
-- 🔭 I’m currently a full time tech lead at Venu Dine and a part-time technical consultant at Klax Ads
- and a former On-Site Specialist at Vodafone VOIS_ and a former flutter developer at Turbo-EG
-- 🌱 I’m currently contributing with new features to the flutter/dart community with my colleauge [Max](https://github.com/maxzod/)
-- 💬 Ask me about `Dart` `Flutter`
-- ⚠  Not quite active on github.
-- 📫 How to reach me: [Facebook: Nour Magdy](https://www.facebook.com/noor.magdy74) ,  [Email: nour.magdi0808@gmail.com](mailto:nour.magdi0808@gmail.com)
+<img src="Simple Work LinkedIn Banner (2).png"/>
 
 ## 🔧 Technologies & Tools
 
@@ -44,7 +37,3 @@
 ### Github Details
 
 ![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPiercer&theme=github_dark)
-
-### Github Contribution Graph
-
-![Github Streaks](https://activity-graph.herokuapp.com/graph?username=SPiercer&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&)
