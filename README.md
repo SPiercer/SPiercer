@@ -1,4 +1,8 @@
-<img src="Simple Work LinkedIn Banner (2).png"/>
+<img src="images/banner.png"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful,+there+are+bugs+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
+
+<img src="images/gnome.gif" alt="side Gif" height="200"/> 
 
 ## 🔧 Technologies & Tools
 
@@ -10,6 +14,7 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Extra-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=purple)
 
+<img src="images/sans.gif" alt="side Gif" align="right" height="120" />  
 
 ## **`Packages`**
 
@@ -25,6 +30,58 @@
 - 🔷 [**`Blueprint`**](https://github.com/maxzod/blueprint) validate JSON against your own Blueprint 🧬
 
 ---
+<!-- insert spotify icon below -->
+## My Favorite albums
+
+
+   <style>
+        .box {
+            display: flex;
+        }
+
+        .parent {
+            position: relative;
+            top: 0;
+            left: 0;
+            margin-right: 10px;
+        }
+
+        .image1 {
+            position: relative;
+            top: 0;
+            left: 0;
+        }
+
+        .image2 {
+            position: absolute;
+            bottom: -44px;
+            left: 0;
+        }
+    </style>
+
+ <div class="box">
+        <div class="parent">
+            <img class="image1" src="images/parachutes.gif" alt="side Gif" height="200" width="200" />
+            <img class="image2" src="spotify/parachutes.svg" alt="side Gif" width="200" />
+        </div>
+        <div class="parent">
+            <img class="image1" src="images/arobth.gif" alt="side Gif" height="200" width="200" />
+            <img class="image2" src="spotify/arobth.svg" alt="side Gif" width="200" />
+        </div>
+          <div class="parent">
+            <img class="image1" src="images/ghoststories.gif" alt="side Gif" height="200" width="200" />
+            <img class="image2" src="spotify/ghoststories.svg" alt="side Gif" width="200" />
+        </div>
+          <div class="parent">
+            <img class="image1" src="images/ahfod.gif" alt="side Gif" height="200" width="200" />
+            <img class="image2" src="spotify/ahfod.svg" alt="side Gif" width="200" />
+        </div>
+         <div class="parent">
+            <img class="image1" src="images/everydaylife.jpg" alt="side Gif" height="200" width="200" />
+            <img class="image2" src="spotify/everydaylife.svg" alt="side Gif" width="200" />
+        </div>
+    </div>
+<br><br>
 
 ### Github Achievements
 
