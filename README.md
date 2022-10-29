@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Extra-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=purple)
 
-<img src="images/sans.gif" alt="side Gif" align="right" height="120" />  
-
 ## **`Packages`**
 
 - 🏰 [**`Palace`**](https://github.com/maxzod/palace) Dart HTTP server Framework built from scratch purly with Dart (WIP)
@@ -33,6 +31,8 @@
 <!-- insert spotify icon below -->
 ## My Favorite albums
 
+<html>
+<body>
 
    <style>
         .box {
@@ -81,6 +81,10 @@
             <img class="image2" src="spotify/everydaylife.svg" alt="side Gif" width="200" />
         </div>
     </div>
+
+</body> 
+</html>
+
 <br><br>
 
 ### Github Achievements
