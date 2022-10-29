@@ -30,61 +30,61 @@
 ---
 <!-- insert spotify icon below -->
 ## My Favorite albums
-
-<html>
-<body>
-
-   <style>
-        .box {
-            display: flex;
-        }
-
-        .parent {
-            position: relative;
+<div style="display: flex;">
+    <div style="position: relative;
             top: 0;
             left: 0;
-            margin-right: 10px;
-        }
-
-        .image1 {
-            position: relative;
+            margin-right: 10px;">
+        <img src="images/parachutes.gif" alt="side Gif" height="200" width="200" style="position: relative;
             top: 0;
-            left: 0;
-        }
-
-        .image2 {
-            position: absolute;
+            left: 0;" />
+        <img src="spotify/parachutes.svg" alt="side Gif" width="200" style=" position: absolute;
             bottom: -44px;
-            left: 0;
-        }
-    </style>
-
- <div class="box">
-        <div class="parent">
-            <img class="image1" src="images/parachutes.gif" alt="side Gif" height="200" width="200" />
-            <img class="image2" src="spotify/parachutes.svg" alt="side Gif" width="200" />
-        </div>
-        <div class="parent">
-            <img class="image1" src="images/arobth.gif" alt="side Gif" height="200" width="200" />
-            <img class="image2" src="spotify/arobth.svg" alt="side Gif" width="200" />
-        </div>
-          <div class="parent">
-            <img class="image1" src="images/ghoststories.gif" alt="side Gif" height="200" width="200" />
-            <img class="image2" src="spotify/ghoststories.svg" alt="side Gif" width="200" />
-        </div>
-          <div class="parent">
-            <img class="image1" src="images/ahfod.gif" alt="side Gif" height="200" width="200" />
-            <img class="image2" src="spotify/ahfod.svg" alt="side Gif" width="200" />
-        </div>
-         <div class="parent">
-            <img class="image1" src="images/everydaylife.jpg" alt="side Gif" height="200" width="200" />
-            <img class="image2" src="spotify/everydaylife.svg" alt="side Gif" width="200" />
-        </div>
+            left: 0;" />
     </div>
-
-</body> 
-</html>
-
+    <div style="position: relative;
+            top: 0;
+            left: 0;
+            margin-right: 10px;">
+        <img src="images/arobth.gif" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
+            left: 0;" />
+        <img src="spotify/arobth.svg" alt="side Gif" width="200" style=" position: absolute;
+            bottom: -44px;
+            left: 0;" />
+    </div>
+    <div style="position: relative;
+            top: 0;
+            left: 0;
+            margin-right: 10px;">
+        <img src="images/ghoststories.gif" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
+            left: 0;" />
+        <img src="spotify/ghoststories.svg" alt="side Gif" width="200" style=" position: absolute;
+            bottom: -44px;
+            left: 0;" />
+    </div>
+    <div style="position: relative;
+            top: 0;
+            left: 0;
+            margin-right: 10px;">
+        <img src="images/ahfod.gif" alt="side Gif" height="200" width="200" />
+        <img src="spotify/ahfod.svg" alt="side Gif" width="200" style=" position: absolute;
+            bottom: -44px;
+            left: 0;" />
+    </div>
+    <div style="position: relative;
+            top: 0;
+            left: 0;
+            margin-right: 10px;">
+        <img src="images/everydaylife.jpg" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
+            left: 0;" />
+        <img src="spotify/everydaylife.svg" alt="side Gif" width="200" style=" position: absolute;
+            bottom: -44px;
+            left: 0;" />
+    </div>
+</div>
 <br><br>
 
 ### Github Achievements
