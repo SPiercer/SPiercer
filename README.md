@@ -1,6 +1,6 @@
 <img src="images/banner.png"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful,+there+are+bugs+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
 
 <img src="images/gnome.gif" alt="side Gif" height="200"/> 
 
