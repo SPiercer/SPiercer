@@ -38,52 +38,18 @@
         <img src="images/parachutes.gif" alt="side Gif" height="200" width="200" style="position: relative;
             top: 0;
             left: 0;" />
-        <img src="spotify/parachutes.svg" alt="side Gif" width="200" style=" position: absolute;
-            bottom: -44px;
+         <img src="images/arobth.gif" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
+            left: 0;" />
+                <img src="images/ghoststories.gif" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
+            left: 0;" />
+          <img src="images/ahfod.gif" alt="side Gif" height="200" width="200" />
+           <img src="images/everydaylife.jpg" alt="side Gif" height="200" width="200" style="position: relative;
+            top: 0;
             left: 0;" />
     </div>
-    <div style="position: relative;
-            top: 0;
-            left: 0;
-            margin-right: 10px;">
-        <img src="images/arobth.gif" alt="side Gif" height="200" width="200" style="position: relative;
-            top: 0;
-            left: 0;" />
-        <img src="spotify/arobth.svg" alt="side Gif" width="200" style=" position: absolute;
-            bottom: -44px;
-            left: 0;" />
-    </div>
-    <div style="position: relative;
-            top: 0;
-            left: 0;
-            margin-right: 10px;">
-        <img src="images/ghoststories.gif" alt="side Gif" height="200" width="200" style="position: relative;
-            top: 0;
-            left: 0;" />
-        <img src="spotify/ghoststories.svg" alt="side Gif" width="200" style=" position: absolute;
-            bottom: -44px;
-            left: 0;" />
-    </div>
-    <div style="position: relative;
-            top: 0;
-            left: 0;
-            margin-right: 10px;">
-        <img src="images/ahfod.gif" alt="side Gif" height="200" width="200" />
-        <img src="spotify/ahfod.svg" alt="side Gif" width="200" style=" position: absolute;
-            bottom: -44px;
-            left: 0;" />
-    </div>
-    <div style="position: relative;
-            top: 0;
-            left: 0;
-            margin-right: 10px;">
-        <img src="images/everydaylife.jpg" alt="side Gif" height="200" width="200" style="position: relative;
-            top: 0;
-            left: 0;" />
-        <img src="spotify/everydaylife.svg" alt="side Gif" width="200" style=" position: absolute;
-            bottom: -44px;
-            left: 0;" />
-    </div>
+  
 </div>
 <br><br>
 
@@ -95,6 +61,3 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SPiercer&hide_border=true&count_private=true&show_icons=true&theme=radical)
 
-### Github Details
-
-![Github Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPiercer&theme=github_dark)
