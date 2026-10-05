@@ -24,23 +24,23 @@
 <td width="62%">
 
 ```text
-┌─ PLAYER ───────────────────────────────────
-│ NAME ........ Nour Magdi  (aka SPiercer)
-│ CLASS ....... Full-Stack Paladin
-│ SUBCLASS .... Founder / Software Lead
-│ HOMETOWN .... Egypt
-│ ALIGNMENT ... Chaotic Shipper
-├─ ATTRIBUTES ───────────────────────────────
-│ BACKEND   ██████████████████░░  90
-│ MOBILE    █████████████████░░░  85
-│ WEB       ███████████████░░░░░  75
-│ DEVOPS    ██████████████░░░░░░  70
-│ DESIGN    ███████████░░░░░░░░░  55
-│ HARDWARE  ██████████░░░░░░░░░░  50
-├─ STATUS ───────────────────────────────────
-│ HP  ████████████████████  coffee: full
-│ MP  ███████████░░░░░░░░░  meetings drain it
-└────────────────────────────────────────────
+┌─ PLAYER ───────────────────────────────────────
+│ NAME ........... Nour Magdi  (aka SPiercer)
+│ CLASS .......... Full-Stack Ranger
+│ SUBCLASS ....... Founder / Software Lead
+│ SPAWN POINT .... Cairo, Egypt
+│ ALIGNMENT ...... Chaotic Shipper
+├─ ATTRIBUTES ───────────────────────────────────
+│ BACKEND   ██████████████████████████████░░  90
+│ MOBILE    █████████████████████████████░░░  85
+│ WEB       ███████████████████████████░░░░░  72
+│ DEVOPS    ██████████████████████████████░░  88
+│ DESIGN    ██████████████░░░░░░░░░░░░░░░░░░  55
+│ HARDWARE  ██████████████████████░░░░░░░░░░  67 ⁶🤷⁷
+├─ STATUS ───────────────────────────────────────
+│ HP    ████████████████████  energy drinks: full
+│ Mana  ███████████░░░░░░░░░  meetings drain it
+└────────────────────────────────────────────────
 ```
 
 </td>
@@ -142,10 +142,6 @@ flowchart LR
 ## 🏆 Achievements unlocked
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SPiercer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SPiercer&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="165" alt="Stats"/>
 <img src="https://streak-stats.demolab.com/?user=SPiercer&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
